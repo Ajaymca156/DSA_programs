@@ -1,3 +1,2 @@
 # DSA_programs
-#Implementation of various Data Structures and Algorithms.
-#Searching and sorting techniques.
+#Implementation of various Data Structures and Algorithms.#Searching and sorting techniques.
